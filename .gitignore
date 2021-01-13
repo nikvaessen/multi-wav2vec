@@ -1,4 +1,6 @@
 .hydra/
+.idea/
+
 fairseq/
 manifest/
 models/

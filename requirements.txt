@@ -1,0 +1,6 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.7.1+cu110
+torchvision==0.8.2+cu110
+torchaudio===0.7.2
+soundfile=== 0.10.3.post1
+git+https://github.com/nikvaessen/daudio@librispeech
