@@ -1,0 +1,8 @@
+.hydra/
+fairseq/
+manifest/
+models/
+outputs/
+venv/
+
+hydra_train.log
